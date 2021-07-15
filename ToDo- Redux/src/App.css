@@ -1,0 +1,19 @@
+*{
+  background-color: darkgray;
+}
+
+.todo-heading{
+  margin-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+  color: blue;
+}
+
+.form-control{
+  margin-left: 15em;
+  margin-right: 15em;
+}
+.input-group-append {
+  margin-left: -221px;
+  margin-right: 222px;
+}
